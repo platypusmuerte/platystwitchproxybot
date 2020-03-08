@@ -8,6 +8,8 @@ It would be most awesome of you to let me know about them.
 (also if it doesn't break, that would be cool to hear about too)
 ```
 
+View [the wiki](https://github.com/platypusmuerte/platystwitchproxybot/wiki) for instructions and info.
+
 ## Why?
 
 Because, awesome tools like [MixItUp](https://mixitupapp.com/) and [Firebot](https://crowbartools.com/tools/firebot/) do not exist for Twitch yet.
