@@ -3,7 +3,9 @@
 The purpose of this bot, is to relay or forward events and messages from Twitch endpoints to stream bots that were made for Mixer.
 
 ```
-This bot is serving a short-term need and is in early stages. You may very well encounter bugs. It would be most awesome of you to let me know about them. (also if it doesn't break, that would be cool to hear about too)
+This bot is serving a short-term need and is in early stages. You may very well encounter bugs. 
+It would be most awesome of you to let me know about them. 
+(also if it doesn't break, that would be cool to hear about too)
 ```
 
 ## Why?
